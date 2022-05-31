@@ -1,0 +1,25 @@
+{
+  "name": "remark-unicode-emoji",
+  "version": "0.0.1",
+  "description": "",
+  "repository": "vsme/remark-unicode-emoji",
+  "keywords": [
+    "remark",
+    "remark-plugin",
+    "plugin",
+    "image",
+    "desc",
+    "title",
+    "newline"
+  ],
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yaavi",
+  "license": "MIT",
+  "dependencies": {
+    "unist-util-visit": "^4.1.0"
+  }
+}
